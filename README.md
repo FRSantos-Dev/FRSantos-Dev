@@ -28,12 +28,3 @@
 [![](https://visitcount.itsvg.in/api?id=FRSantos-Dev&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-picture></a>
-<p align="center">
-<a href="https://twitter.com/https://twitter.com/FelipeRocha10">
-<img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></picture></a>
----
-
-<br>
-Last Edited on: 30/08/2023
-
