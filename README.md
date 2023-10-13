@@ -24,8 +24,25 @@
 ### Programming languages
 <a><img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=Plastic&logo=java&logoColor=white"></a>
 &emsp;
+
 <a><img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=Plastic&logo=kotlin&logoColor=white"></a>
-   
+&emsp;
+
+<a><img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+&emsp;
+
+<a><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+&emsp;
+
+<a><img src = "https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"></a>
+&emsp;
+
+<a><img src = "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
+&emsp;
+
+
+
+
 ### Software & Tools
 <a><img src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=Plastic&logo=spring&logoColor=white"></a>
 &emsp;
@@ -48,6 +65,43 @@
 <a><img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=Plastic&logo=Flutter&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=Plastic&logo=mysql&logoColor=white"></a>
+&emsp;
+
+<a><img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"></a>
+&emsp;
+<a><img src = "(https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+&emsp;
+<a><img src = "(https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+&emsp;
+<a><img src = "(https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
+&emsp;
+<a><img src = "(https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
+&emsp;
+<a><img src = "(https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+&emsp;
+<a><img src = "(https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+&emsp;
+<a><img src = "(https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 &emsp;
 
 ### IDEs
@@ -84,11 +138,30 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FelipeRocha-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FelipeRocha-Dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRocha-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FelipeRocha-Dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FelipeRocha-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=FelipeRocha-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p align="center"><b> Let's Connect..!</b><img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width ="80"></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-rocha-dos-santos-developer-java/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white"></picture></a>
-
+<p align="center">
+<a href="https://instagram.com/https://instagram.com/feliperj1995?igshid=OGQ5ZDc2ODk2ZA==">
+<img src = "https://https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></picture></a>
+<p align="center">
+<a href="https://twitter.com/https://twitter.com/FelipeRocha10">
+<img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></picture></a>
 ---
 
 <br>
