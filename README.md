@@ -15,7 +15,7 @@
 
 - Curious about Cybersec.
 
-- I currently work at Condor Non Lethaç Tecnologies, as a Java Full Stack Intern.
+- I currently work at Condor Non Lethal Tecnologies, as a Java Full Stack Intern.
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -74,9 +74,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">**Github Stats**   
 
 <p align="center">
-<a href="https://github.com/LeoGuedex">
-<img src="https://github-readme-stats.vercel.app/api?username=LeoGuedex&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGuedex&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="407"  alt="0xabdulkhalid"/>
+<a href="https://github.com/FRSantos-Dev">
+<img src="https://github-readme-stats.vercel.app/api?username=FRSantos-Dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FRSantos-Dev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="407"  alt="0xabdulkhalid"/>
 </a>
 </p>
 
@@ -87,9 +87,8 @@
 <p align="center"><b> Let's Connect..!</b><img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width ="80"></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leonardo-correa-guedes/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white"></picture></a>
-<a href="https://www.instagram.com/leo.guedes.correa/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Plastic&logo=Instagram&logoColor=white"></picture></a>
-</p>
+<a href="https://www.linkedin.com/in/felipe-rocha-dos-santos-developer-java/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white"></picture></a>
+
 ---
 
 <br>
